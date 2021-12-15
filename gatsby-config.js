@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `Amine's portfolio`,
         short_name: `Amine`,
         description: `One-Page portfolio`,
         start_url: `/`,
